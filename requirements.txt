@@ -1,0 +1,6 @@
+scrapy
+boto
+extruct
+w3lib
+jinja2
+idna==2.5
